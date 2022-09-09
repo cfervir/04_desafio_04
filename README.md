@@ -13,3 +13,5 @@
 - Buscará personajes y entregará un sistema de páginas hasta que se encuentre con un error 404. Cuando eso ocurra se dejará de actualizar hasta que en el buscador se coloque alguna otra información que sea válida.
 
 - Hay un botón que permite revertir la información que aparece en pantalla, permitiendo cambiar quienes aparecen primero.
+
+- Video explicativo en Español https://www.youtube.com/watch?v=_NOR27_wKhI
